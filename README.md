@@ -65,7 +65,7 @@ Follow these steps to run MindReader locally.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vishwa7773/Mindreader.git
 ```
 
 Alternatively, download the project and extract it to your computer.
